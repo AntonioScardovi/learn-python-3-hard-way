@@ -1,0 +1,9 @@
++ : plus : addition
+- : minus : subraction
+/ : slash : dividing
+* : asterisk : multiplying
+% : percent : calculating percentage
+< : less-than 
+> : greater-than
+<= : less-than-equal
+>= : greater-than-equal
