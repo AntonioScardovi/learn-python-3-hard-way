@@ -18,5 +18,7 @@ def print_line(line, encoding, errors):
     print(raw_bytes, "<===>", cooked_string)
 
 
-with open("languages.txt", encoding="utf-8") as languages:
+languages = open("languages1.txt", encoding="latin-1")
     main(languages, input_encoding, error)
+
+languages.close()
